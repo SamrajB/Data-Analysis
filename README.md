@@ -4,22 +4,6 @@ A data analysis project focused on exploring patterns, correlations, and key ins
 
 ---
 
-## 📁 Table of Contents
-
-- [📌 Overview](#-overview)
-- [📊 Dataset](#-dataset)
-- [🎯 Objectives](#-objectives)
-- [🧰 Technologies Used](#-technologies-used)
-- [🔄 Project Workflow](#-project-workflow)
-- [📌 Key Insights](#-key-insights)
-- [⚙️ Installation](#️-installation)
-- [▶️ Usage](#️-usage)
-- [📈 Visualizations](#️-visualizations)
-- [🧠 Conclusion](#-conclusion)
-- [🪪 License](#-license)
-
----
-
 ## 📌 Overview
 
 This project analyzes a medical dataset to explore factors associated with the likelihood of diabetes. The dataset includes features such as blood glucose levels, BMI, age, insulin levels, and more.
